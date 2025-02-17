@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{58D199E2-73D2-48AA-9B2C-97B3FC64819A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicOfCSharp", "ConsoleApp1\BasicOfCSharp.csproj", "{58D199E2-73D2-48AA-9B2C-97B3FC64819A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPConcepts", "OPPSConcepts\OOPConcepts.csproj", "{6507324C-EB97-4105-ACE4-71530D7583BC}"
 EndProject

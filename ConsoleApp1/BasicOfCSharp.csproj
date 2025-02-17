@@ -9,5 +9,6 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Hello.cs" />
+    <Compile Include="String.cs" />
   </ItemGroup>
 </Project>
